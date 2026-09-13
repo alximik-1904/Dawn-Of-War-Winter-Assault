@@ -204,3 +204,6 @@ This is the full free version of Warhammer 40,000: Dawn of War Winter Assault, f
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-13 17:09:10 UTC
